@@ -1,2 +1,2 @@
 # keysnail
-hoge
+please install HoK,Tanything,bmany,CretHint
